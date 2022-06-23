@@ -1,0 +1,307 @@
+h1 {
+  position: absolute;
+  width: 363px;
+  height: 75px;
+  left: calc(50% - 363px / 2 - 1.5px);
+  top: calc(50% - 75px / 2 - 404.5px);
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 75px;
+
+  text-align: center;
+
+  color: #000000;
+}
+
+.first-cactus-price {
+  /* IDR 85.000 */
+  position: absolute;
+  width: 108.69px;
+  height: 29.83px;
+  left: 1231.49px;
+  top: 737.28px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.second-cactus-price {
+  position: absolute;
+  width: 108.69px;
+  height: 29.83px;
+  left: 948.43px;
+  top: 737.28px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.third-cactus-price {
+  position: absolute;
+  width: 108.69px;
+  height: 29.83px;
+  left: 665.37px;
+  top: 737.28px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.forth-cactus-price {
+  position: absolute;
+  width: 115.85px;
+  height: 29.83px;
+  left: 378.72px;
+  top: 737.28px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.forth-cactus-price {
+  position: absolute;
+  width: 115.85px;
+  height: 29.83px;
+  left: 378.72px;
+  top: 737.28px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.fifth-cactus-price {
+  position: absolute;
+  width: 108.69px;
+  height: 29.83px;
+  left: 99.24px;
+  top: 737.28px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.first-cactus-name {
+  /* Kecubung Plants */
+  position: absolute;
+  width: 166.01px;
+  height: 29.83px;
+  left: 1202.82px;
+  top: 695.51px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.second-cactus-name {
+  position: absolute;
+  width: 166.01px;
+  height: 29.83px;
+  left: 919.76px;
+  top: 695.51px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.third-cactus-name {
+  position: absolute;
+  width: 166.01px;
+  height: 29.83px;
+  left: 636.7px;
+  top: 695.51px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.forth-cactus-name {
+  position: absolute;
+  width: 137.35px;
+  height: 29.83px;
+  left: 367.97px;
+  top: 695.51px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+.fifth-cactus-name {
+  position: absolute;
+  width: 131.38px;
+  height: 29.83px;
+  left: 87.3px;
+  top: 695.51px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #000000;
+}
+
+#rectangle {
+  position: absolute;
+  width: 259.17px;
+  height: 323.65px;
+  left: 1156.24px;
+  top: 348px;
+
+  background: #f3f4f6;
+}
+
+#rectangle2 {
+  position: absolute;
+  width: 259.17px;
+  height: 323.65px;
+  left: 873.18px;
+  top: 348px;
+  background: #f3f4f6;
+}
+
+#rectangle3 {
+  position: absolute;
+  width: 259.17px;
+  height: 323.65px;
+  left: 590.12px;
+  top: 348px;
+  background: #f3f4f6;
+}
+
+#rectangle4 {
+  position: absolute;
+  width: 259.17px;
+  height: 323.65px;
+  left: 307.06px;
+  top: 348px;
+
+  background: #f3f4f6;
+}
+
+#rectangle5 {
+  position: absolute;
+  width: 259.17px;
+  height: 323.65px;
+  left: 24px;
+  top: 348px;
+
+  background: #f3f4f6;
+}
+
+.First-cactus {
+  position: absolute;
+  object-fit: cover;
+  width: 496.85px;
+  height: 323.65px;
+  left: 1038px;
+  top: 350px;
+}
+
+.Second-cactus {
+  position: absolute;
+  object-fit: cover;
+  width: 336.81px;
+  height: 323.65px;
+  left: 838.55px;
+  top: 370px;
+}
+
+.Third-cactus {
+  position: absolute;
+  object-fit: cover;
+  width: 298.59px;
+  height: 323.65px;
+  left: 572.21px;
+  top: 350px;
+}
+
+.Forth-cactus {
+  position: absolute;
+  object-fit: cover;
+  width: 238.87px;
+  height: 323.65px;
+  left: 317.81px;
+  top: 350px;
+}
+
+.Fifth-cactus {
+  position: absolute;
+  object-fit: cover;
+  width: 500px;
+  height: 323.65px;
+  left: -84.69px;
+  top: 350px;
+}
+
+.everything {
+  position: absolute;
+  width: 1391.42px;
+  height: 419.11px;
+  margin-left: 225px;
+  top: 5px;
+}
